@@ -1,4 +1,5 @@
-
-body {
-    background-color: #eee;
-}
+body {background:#eee;}
+input {height:20px; padding:10px; margin-bottom:15px;}
+button {padding: 5px; color:#fff;}
+button#encode {background: #43C583; border: 1px solid #3CAF75;}
+button#decode {background: #de8539; border: 1px solid #b16a2d;}
